@@ -1,0 +1,16 @@
+let foods = {
+  apples: 25,
+  oranges: 32,
+  plums: 28
+};
+
+// Only change code below this line
+const fruit1 = 'bananas';
+const fruit2 = 'grapes';
+const fruit3 = 'strawberries';
+foods[fruit1] = 13;
+foods[fruit2] = 35;
+foods[fruit3] = 27;
+// Only change code above this line
+
+console.log(foods);
